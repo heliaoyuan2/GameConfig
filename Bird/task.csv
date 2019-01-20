@@ -1,0 +1,45 @@
+﻿索引	任务ID	接任务NPC	完成条件ID（多个条件#号分割）	前置任务ID	其他开启条件(多个条件#号分割）	奖励(多个用#隔开)	数量	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	对话内容（领取之后）
+id	taskId	receiveNpcId	requirement	lastTaskId	otherRequirement	rewards	num	sureContent	title	dialog	dialogAffter
+1	101001	20008	20008001	0	101	9000001#1041001	1000#20	gui_dialog_tip_btn_sure	tast_daguai_title_1	tast_daguai_content_1_1	tast_daguai_title_1
+2	102002	20008	20008002	101001	@@@	9000001#1041003	1001#1	gui_dialog_tip_btn_sure	tast_daguai_title_2	tast_daguai_content_2_1	tast_daguai_title_2
+3	102003	20008	20008003	102002	@@@	9000001#1041004	1002#1	gui_dialog_tip_btn_sure	tast_daguai_title_3	tast_daguai_content_3_1	tast_daguai_title_3
+4	102004	20008	20008004	102003	@@@	9000001#1041005	1003#1	gui_dialog_tip_btn_sure	tast_daguai_title_4	tast_daguai_content_4_1	tast_daguai_title_4
+5	102005	20008	20008005	102004	@@@	9000001#1041006	1004#1	gui_dialog_tip_btn_sure	tast_daguai_title_5	tast_daguai_content_5_1	tast_daguai_title_5
+6	102006	20008	20008006	102005	@@@	9000001#1041009	1005#1	gui_dialog_tip_btn_sure	tast_daguai_title_6	tast_daguai_content_6_1	tast_daguai_title_6
+7	102007	20008	20008007	102006	@@@	9000001#1041010	1006#1	gui_dialog_tip_btn_sure	tast_daguai_title_7	tast_daguai_content_7_1	tast_daguai_title_7
+8	105008	20008	20008008	102007	@@@	9000001#1041018	1007#1	gui_dialog_tip_btn_sure	tast_daguai_title_8	tast_daguai_content_8_1	tast_daguai_title_8
+9	105009	20008	20008009	105008	@@@	9000001#9000002	1008#20	gui_dialog_tip_btn_sure	tast_daguai_title_9	tast_daguai_content_9_1	tast_daguai_title_9
+10	105010	20008	20008010#20008011	105009	@@@	9000001	1009	gui_dialog_tip_btn_sure	tast_daguai_title_10	tast_daguai_content_10_1	tast_daguai_title_10
+11	101012	20009	20009012#20009013	0	@@@	9000001	1011	gui_dialog_tip_btn_sure	tast_yindao_title_11	tast_yindao_content_11_1	tast_yindao_title_11
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											

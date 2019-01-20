@@ -1,0 +1,6 @@
+TipType	TipTemplateId	Notice	zh_CN	en_US	pt_BR	ru_RU	ko_KR	de_DE	fr_FR	es_ES	it_IT	in_ID	th_TH	tr_TR	vi_VN	ja_JP
+枚举类型	模板说明	备注	中文	英文	葡萄牙语	俄语	韩语	德语	法语	西语	意大利语	印尼语	泰语	土耳其	越南语	日语
+1041001	GameName	GameName	小鸟模拟	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator	BirdSimulator
+1041002			背包满了	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full	BackPack full
+1041003			水果不足	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit	not enough fruit
+1041004			没有携带小鸟	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird	not carry bird

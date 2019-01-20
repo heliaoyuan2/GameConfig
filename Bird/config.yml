@@ -1,0 +1,34 @@
+initPos: [-602, 11, -225]
+
+#初始hp
+hp: 50
+
+#初始移动速度
+moveSpeed: 0
+
+#初始跳跃
+jump: 0
+
+#未受到伤害x秒后
+withoutHurtSecond: 5
+
+#回血CD
+hpRecoverCD: 5
+
+#回血量
+hpRecover: 5
+
+#离开战斗回血CD
+awayFromBattleCD: 10
+
+#转换率加成
+convertRate: 1
+
+#玩家初始可携带小鸟上限
+initMaxCarryBirdNum: 2
+
+#玩家初始背包小鸟容量上限
+initMaxCapacityBirdNum: 10
+
+#小鸟飞行高度
+flyHigh: 2

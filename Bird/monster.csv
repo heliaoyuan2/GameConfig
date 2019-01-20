@@ -1,0 +1,12 @@
+﻿id	名字多语言	生命值	攻击力	攻击cd	移动速度	死亡后刷新cd	actor名称	默认配置应该是body	bodyId	杀死获得的奖励(#分割)	杀死获得的奖励数量(#分割)	杀死获得的经验
+id	name	hp	attack	attackCD	moveSpeed	refreshCD	actorName	actorBody	actorBodyId	reward	num	exp
+4001	monstername_4001	20	10	3	50	180	g1041_beetleblue.actor	body	1	9000001	50	1
+4002	monstername_4002	20	10	3	50	180	g1041_beetlegreen.actor	body	1	9000001	50	1
+4003	monstername_4003	20	10	3	50	180	g1041_beetlered.actor	body	1	9000001	50	1
+4004	monstername_4004	20	10	3	50	180	g1041_beetleyellow.actor	body	1	9000001	50	1
+4005	monstername_4005	200	14	3	70	480	g1041_spider.actor	body	1	9000001	200	2
+4006	monstername_4006	200	14	3	70	480	g1041_mantis.actor	body	1	9000001	200	2
+4007	monstername_4007	200	14	3	70	480	g1041_mantis.actor	body	1	9000001	200	2
+4008	monstername_4008	200	14	3	70	480	g1041_mantis.actor	body	1	9000001	200	2
+4009	monstername_4009	600	18	3	90	1020	g1041_mantis.actor	body	1	9000001	500	3
+4010	monstername_4010	1000	20	3	100	1440	g1041_mantis.actor	body	1	9000001	1000	4

@@ -1,0 +1,5 @@
+ActorName	Width	Length	Height	Remark
+Actor文件名	宽度（>0）	长度（>0）	高度（>0）	备注信息
+g1041_eggmachine.actor	1.2	1.2	3.8	蛋机
+g1041_npc1.actor	2	2	3.8	npc1
+g1041_npc2.actor	1.5	1.5	3.8	npc2

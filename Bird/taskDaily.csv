@@ -1,0 +1,11 @@
+﻿索引	任务ID	接任务NPC	完成条件ID（多个条件#号分割）	其他开启条件(多个条件#号分割）	鸟巢格子数量（最低携带位）	鸟巢格子数量（最高携带位）	权重	等待时间（s）	奖励(多个用#隔开)	数量	按钮显示的内容	显示的标题(#为空)	对话内容(#分页)	领取任务之后对话
+id	taskId	receiveNpcId	requirement	otherRequirement	minBox	maxBox	weight	waitTime	rewards	num	sureContent	title	dialog	dialogAffter
+1	205001	20001	20001014	101	5	5	10	60	1041001	1	gui_dialog_tip_btn_sure	tast_richang_title	tast_richang_content	tast_richang_after
+2	206002	20001	20001015	@@@	6	6	10	60	1041001	1	gui_dialog_tip_btn_sure	tast_richang_title	tast_richang_content	tast_richang_after
+														
+														
+														
+														
+														
+														
+														

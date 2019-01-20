@@ -1,0 +1,9 @@
+﻿序号	名字多语言	图标	简介	增加经验
+id	name	icon	desc	exp
+1041001	fruitcoin_1041001	set:bird_icon.json image:g1041_coin_09	desc1	1
+1041009	fruitcoin_1041009	set:bird_icon.json image:g1041_coin_010	desc2	10
+1041006	fruitcoin_1041006	set:bird_icon.json image:g1041_coin_011	desc3	5
+1041005	fruitcoin_1041005	set:bird_icon.json image:g1041_coin_012	desc4	5
+1041010	fruitcoin_1041010	set:bird_icon.json image:g1041_coin_013	desc5	10
+1041003	fruitcoin_1041003	set:bird_icon.json image:g1041_coin_014	desc6	5
+1041004	fruitcoin_1041004	set:bird_icon.json image:g1041_coin_015	desc7	5

@@ -1,0 +1,11 @@
+﻿id	npc类型(1.日常  2.主线)	名字多语言	actor名字	默认是body	bodyid	npc的坐标x	npc的坐标y	npc的坐标z	yaw	有提示的动作	没提示的动作	提示actor的名字	提示actor的Body（前面表示 没提示    后面 表示有提示）	提示actor的BodyId	坐标X	坐标Y	坐标Z	npc接任务区域起点x	npc接任务区域起点y	npc接任务区域起点z	npc接任务区域终点x	npc接任务区域终点y	npc接任务区域终点z	没任务可以接的对话	中文	注释
+id	npcType	name	actorName	actorBody	actorBodyId	x	y	z	yaw	canReceiveAction	defaultAction	tipActorName	tipActorBody	tipActorBodyId	tipx	tipy	tipz	x1	y1	z1	x2	y2	z2	normalTitle	normalDialog	注释
+20001	1	日常NPCname	g1041_npc1.actor	body	1	-611	11	-197	0	wave	idle	g1041_stand.actor	body#body	1#3	-608	11	-197	-606	16	-192	-616	6	-202	日常NPC	tastnpc_20001	我需要等待4h才能领取下一个任务。而不是像其他居民一样完成一个，才能领下一个。
+20002	2	养成NPCname	g1041_npc1.actor	body	1	-611	11	-199	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-199	-606	16	-194	-616	6	-204	养成NPC	tastnpc_20002	按照我的训练，一步步进行，就可以成为真正的小鸟训练家。
+20003	2	比尔	g1041_npc1.actor	body	1	-611	11	-201	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-201	-606	16	-196	-616	6	-206	采集田NPC	tastnpc_20003	我是绿猪比尔，需要你帮我去田里采集水果。
+20004	2	宝箱NPCname	g1041_npc1.actor	body	1	-611	11	-203	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-203	-606	16	-198	-616	6	-208	宝箱NPC	tastnpc_20004	别打扰我，我在研究宝箱是怎么出现的。
+20005	2	收集NPCname	g1041_npc1.actor	body	1	-611	11	-205	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-205	-606	16	-200	-616	6	-210	收集NPC	tastnpc_20005	收集难道不是一种乐趣？
+20006	2	融合NPCname	g1041_npc1.actor	body	1	-611	11	-207	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-207	-606	16	-202	-616	6	-212	融合NPC	tastnpc_20006	我是研究小鸟融合的博士，但是我现在还不需要你的帮助。
+20007	2	佩奇	g1041_npc1.actor	body	1	-611	11	-209	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-209	-606	16	-204	-616	6	-214	采集颜色NPC	tastnpc_20007	我是佩奇，虽然现在是个大人了，但也需要你帮我采集水果。
+20008	2	打怪NPCname	g1041_npc1.actor	body	1	-611	11	-211	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-211	-606	16	-206	-616	6	-216	打怪NPC	tastnpc_20008	来锻炼身体吧，先从这只瓢虫开始。
+20009	2	引导NPCname	g1041_npc1.actor	body	1	-611	11	-213	0	wave	idle	g1041_stand.actor	body#body	1#2	-608	11	-213	-606	16	-208	-616	6	-218	引导NPC	tastnpc_20009	新出生的训练家都会来我这里报道，而现在大家都更加熟悉热带岛了，也就不再来找我了。

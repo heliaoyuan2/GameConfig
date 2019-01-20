@@ -1,0 +1,17 @@
+﻿	物品id	展示模型	图标	Body	BodyId	物品名字	位置x	位置y	位置z	旋转角度	物品价格	货币Id(1.魔方，3.果币，4.抽蛋票)	物品类型（1采集器，2存储灌，3装饰）	物品描述	所属商店	装饰部件名字	装饰部件Id
+id	ItemId	actorModelName	icon	actorBody	actorBodyId	ItemName	x	y	z	yaw	ItemPrice	MoneyType	ItemType	ItemDesc	BindStoreId	actorName	actorId
+1	2001	g1041_bagpack.actor	set:bird_icon.json image:bagpack_01	body	1	背包1	-612.5	13	-261.5	90	10	3	2	1	101001	custom_bag	1
+2	2002	g1041_bagpack.actor	set:bird_icon.json image:bagpack_02	body	2	背包2	-612.5	13	-263.5	90	20	3	2	1	101001	custom_bag	2
+3	2003	g1041_bagpack.actor	set:bird_icon.json image:bagpack_03	body	3	背包3	-610.5	13	-273.5	0	30	3	2	1	101001	custom_bag	3
+4	2004	g1041_bagpack.actor	set:bird_icon.json image:bagpack_04	body	4	背包4	-608.5	13	-273.5	0	40	3	2	1	101001	custom_bag	4
+5	2005	g1041_bagpack.actor	set:bird_icon.json image:bagpack_05	body	5	背包6	-689.5	25	-267.5	0	60	3	2	1	101002	custom_bag	5
+6	2006	g1041_bagpack.actor	set:bird_icon.json image:bagpack_06	body	6	背包7	-693.5	25	-267.5	0	70	3	2	1	101002	custom_bag	6
+7	2007	g1041_bagpack.actor	set:bird_icon.json image:bagpack_07	body	7	背包8	-700.5	25	-274.5	0	80	3	2	1	101002	custom_bag	7
+8	2008	g1041_bagpack.actor	set:bird_icon.json image:bagpack_08	body	8	背包9	-700.5	25	-277.5	0	90	3	2	1	101002	custom_bag	8
+9	1027	g1041_weapon_shovel.actor	set:bird_icon.json image:weapon1	body	1	采集工具1	-606.5	13	-273.5	0	100	3	1	1	101001	gun	weapon_22.mesh
+10	1028	g1041_weapon_rake.actor	set:bird_icon.json image:weapon2	body	1	采集工具2	-598.5	13	-267.5	270	110	3	1	1	101001	gun	weapon_23.mesh
+11	1029	g1041_weapon_scissors.actor	set:bird_icon.json image:weapon3	body	1	采集工具3	-598.5	13	-264.5	270	120	3	1	1	101001	gun	weapon_24.mesh
+12	1030	g1041_weapon_magnet.actor	set:bird_icon.json image:weapon4	body	1	采集工具4	-598.5	13	-261.5	270	130	3	1	1	101001	gun	weapon_25.mesh
+13	1032	g1041_weapon_vacuumcleaner.actor	set:bird_icon.json image:weapon5	body	1	采集工具5	-690.5	25	-281.5	0	140	3	1	1	101002	gun	weapon_26.mesh
+14	1033	g1041_weapon_magnetshovel.actor	set:bird_icon.json image:weapon6	body	1	采集工具6	-693.5	25	-281.5	0	150	3	1	1	101002	gun	weapon_27.mesh
+15	1034	g1041_weapon_atom.actor	set:bird_icon.json image:weapon7	body	1	采集工具7	-696.5	25	-281.5	0	160	3	1	1	101002	gun	weapon_28.mesh
